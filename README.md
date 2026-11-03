@@ -1,4 +1,7 @@
-# Seonyeok Lee · 이선역
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" alt="Seonyeok Lee · 이선역" width="880">
+</picture>
 
 **Human-AI Engineering undergraduate at Sangmyung University, Seoul**
 
