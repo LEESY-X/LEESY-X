@@ -24,6 +24,8 @@ I hope to pursue graduate research in **trustworthy and explainable AI**. I want
 | [Console Blackjack](https://github.com/LEESY-X/2023.9-2023.12_Blackjeck_project) · 2023 | Built a Python console game with betting, scoring, and file-based player records. |
 | Smart Route · 2023 | Proposed a data-driven bus routing and mapping service for the AWS and KT AICE Big Data & AI Competition. |
 
+**Other university work (2023).** Wrote an essay on the fairness and educational effects of expanding A-grade eligibility at Sangmyung University. Presented on how the university and its students could support a more inclusive multicultural campus.
+
 ## Leadership & teaching
 
 - **BAMBOO, Club President** · Organize study groups in data analysis, machine learning, deep learning, and paper reading. Helped run mentoring, guest talks, and a Kaggle competition.
